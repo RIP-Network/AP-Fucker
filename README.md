@@ -9,6 +9,8 @@ $ git clone https://github.com/RIP-Network/AP-Fucker
 
 $ cd AP-Fucker
 
+$ bash install.sh
+
 $ python2 AP-Fucker.py
 
 ![Screenshot](descarga.png)
