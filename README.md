@@ -4,7 +4,9 @@ BUENO HEMOS VISTO DIVERSAS HERRAMIENTAS QUE AP-FUCKER NOS OTORGA PARA ATACAR UN 
 # Como usar
 
 $ git clone https://github.com/RIP-Network/AP-Fucker
+
 $ cd AP-Fucker
+
 $ python2 AP-Fucker.py
 
 $ Imagenes
