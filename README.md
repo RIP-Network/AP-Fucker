@@ -11,6 +11,8 @@ $ cd AP-Fucker
 
 $ python2 AP-Fucker.py
 
+![Screenshot](descarga.png)
+
 # Imagenes
 
 ![Screenshot](menu.png)
