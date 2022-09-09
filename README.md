@@ -10,3 +10,4 @@ $ cd AP-Fucker
 $ python2 AP-Fucker.py
 
 $ Imagenes
+![Screenshot](menu.png)
