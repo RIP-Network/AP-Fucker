@@ -6,7 +6,7 @@
 #
 # Thanks to BackTrack crew, especially ShamanVirtuel and ASPJ
 #
-# USAGE: Launch the script as root using "python AP-Fucker.py", follow instructions, enjoy!
+# USAGE: Launch the script as root using "python2 AP-Fucker.py", follow instructions, enjoy!
 # Prerequisites: Have mdk3 installed
 #
 
