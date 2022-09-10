@@ -172,13 +172,13 @@ attackAvail = ["B", "A", "W", "D", "M", "T", "E", "C"]
 attack_opt = []
 
 if getoutput("whoami") != "root":
-    print("This script must be run as root !")
+    print("Debes de usar root para ejecutar!")
     sysexit(0)
 try:
     system("clear")
     print("\n\t\t########## ACCESS POINT FUCKER ##########\n")
     print("              RIP-Network       version 1.5")
-    print("####################################################")
+    print("       ####################################################")
     print("""Choose your Mode:
     \t - (B)eacon flood
     \t - (A)uth DoS
