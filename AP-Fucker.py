@@ -126,7 +126,7 @@ def clean_exit():
     print("\nAction aborted by user. Exiting now")
     for pid in getoutput("ps aux | grep mdk3 | grep -v grep | awk '{print $2}'").splitlines():
         system("kill -9 "+pid)
-    print("Hope you enjoyed it ;-)")
+    print("Espero te haya gustado:)")
     sleep(2)
     system("clear")
     sysexit(0)
@@ -177,7 +177,8 @@ if getoutput("whoami") != "root":
 try:
     system("clear")
     print("\n\t\t########## ACCESS POINT FUCKER ##########\n")
-    print("RIP-Network       version 1.5")
+    print("              RIP-Network       version 1.5")
+    print("####################################################")
     print("""Choose your Mode:
     \t - (B)eacon flood
     \t - (A)uth DoS
