@@ -177,8 +177,8 @@ if getoutput("whoami") != "root":
 try:
     system("clear")
     print("\n\t\t########## ACCESS POINT FUCKER ##########\n")
-    print("              RIP-Network       version 1.5")
-    print("       ####################################################")
+    print("                 RIP-Network       version 1.5")
+    
     print("""Choose your Mode:
     \t - (B)eacon flood
     \t - (A)uth DoS
