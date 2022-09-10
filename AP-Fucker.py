@@ -11,8 +11,8 @@
 #
 
 __app__ = "AP-Fucker"
-__version__ = "0.5"
-__author__ = "MatToufoutu"
+__version__ = "1.5"
+__author__ = "RIP-Network"
 
 ### IMPORTS
 from sys import stdout
@@ -177,6 +177,7 @@ if getoutput("whoami") != "root":
 try:
     system("clear")
     print("\n\t\t########## ACCESS POINT FUCKER ##########\n")
+    print("RIP-Network       version 1.5")
     print("""Choose your Mode:
     \t - (B)eacon flood
     \t - (A)uth DoS
